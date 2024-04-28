@@ -1,0 +1,14 @@
+#name-from {
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+	background:red;
+}
+
+#box{
+	
+	margin-top: 100px;
+}
